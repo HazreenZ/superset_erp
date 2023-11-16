@@ -1,0 +1,15 @@
+{
+  "name": "superset",
+  "version": "1.0.0",
+  "description": "Superset Dahsboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@superset-ui/embedded-sdk": "^0.1.0-alpha.10"
+  }
+}

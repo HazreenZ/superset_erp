@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include superset *.css
+recursive-include superset *.csv
+recursive-include superset *.html
+recursive-include superset *.ico
+recursive-include superset *.js
+recursive-include superset *.json
+recursive-include superset *.md
+recursive-include superset *.png
+recursive-include superset *.py
+recursive-include superset *.svg
+recursive-include superset *.txt
+recursive-exclude superset *.pyc

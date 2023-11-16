@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2023-11-03 11:30:27.410291",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2023-11-03 11:30:51.685432",
+ "modified_by": "Administrator",
+ "module": "Superset",
+ "name": "superset-integration",
+ "owner": "Administrator",
+ "page_name": "Superset Integration",
+ "roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Superset Dashboard"
+}
