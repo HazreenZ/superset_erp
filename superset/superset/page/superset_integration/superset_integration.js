@@ -34,7 +34,7 @@ class SupersetIntegrationTool {
                     }
                 },
                 {
-                    label: __('Custom Button'),
+                    label: __('Confirm'),
                     fieldname: 'custom_button',
                     fieldtype: 'Button',
                     icon: 'fa fa-check',
@@ -93,10 +93,6 @@ class SupersetIntegrationTool {
                             supersetLastName: values.su_lname,
                             supersetRls: values.su_rls
                         };
-
-                        // Now you can use these values in your logic
-                        console.log('Superset User Password:', this.dataset.supersetUserPassword);
-                        console.log('Superset Username:', this.dataset.supersetUsername);
 
                         // Implement your logic to retrieve the set based on the selected Superset Setting
                     } else {
